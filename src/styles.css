@@ -1,0 +1,13 @@
+@import "~ngx-toastr/toastr.css";
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  margin: auto auto;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+@import "assests/bootstrap.min.css";
